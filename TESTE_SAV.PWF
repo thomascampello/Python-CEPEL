@@ -1,0 +1,25 @@
+ulog
+2
+2025_R1.SAV
+arqv rest
+3
+ulog
+1
+Tabelador_SIN_RedeBasica.PWF
+ulog
+4
+RELA.DAT
+ulog
+2
+./resultados/2025_R1_NOVO.SAV
+arqv inic
+sim
+exlf newt crem qlim ctap cphs csca cpri ctaf stpo celo step TABE file
+arqv grav novo areg jump
+1
+( FINALIZANDO
+RELA RTAB FILE
+ulog
+4
+FIM.TXT
+FIM
